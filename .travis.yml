@@ -11,6 +11,5 @@ before_install:
   addons:
   browserstack:
     username: "ramprasad17"
-    access_key:
-      secure: "iiVUiuqaErY2pq8wthKn"
+    access_key: "iiVUiuqaErY2pq8wthKn"
 
