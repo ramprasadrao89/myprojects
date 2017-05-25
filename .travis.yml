@@ -12,4 +12,3 @@ before_install:
   browserstack:
     username: "ramprasad17"
     access_key: "iiVUiuqaErY2pq8wthKn"
-
