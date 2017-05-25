@@ -8,4 +8,9 @@ php:
 before_install:
   - true && `base64 --decode <<< ZXhwb3J0IEJST1dTRVJTVEFDS19BQ0NFU1NfS0VZPUh5VmZydXJvb3dYb041eGhLZEs2Cg==`
   - true && composer install
+  addons:
+  browserstack:
+    username: "ramprasad17"
+    access_key:
+      secure: "iiVUiuqaErY2pq8wthKn"
 
